@@ -3,7 +3,7 @@ Este repositório contém as anotações de aula do curso de Séries Temporais m
 </br>
 
 <p align="center"> 
-  <img src="result/carpet.png" alt="Página inicial" width="100%">
+  <img src="img.png" alt="Página inicial" width="100%">
 </p>
 
 </br>
